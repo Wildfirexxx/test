@@ -1,0 +1,51 @@
+*{
+    text-align: right;
+}
+
+body {
+background-image: url(backgroundimage.jpg);
+background-size: cover;
+
+}
+p {
+color: #AA3139;
+text-align: center ;
+border: 5px solid rgba(255, 176, 170, 0.5);
+cursor: pointer;
+}
+
+p {
+    color: pink;
+    line-height: 30px;
+    font-family: 'Licorice', cursive;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+p {
+    color: green;
+}
+img{
+    float: left;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+.webtext:first-child {
+border: 5px dashed green;
+}
+.active {
+    color: red;
+}
+#div1 {
+    background:rgba(0, 0, 255, 0.2)
+}
+#div2 {
+    background:rgba(255, 0, 0, 0.2)
+}
+
